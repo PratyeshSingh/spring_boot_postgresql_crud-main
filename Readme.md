@@ -1,3 +1,6 @@
+# For prior Jenking setup & Start/Stop actions
+- https://github.com/PratyeshSingh/spring-boot-cicd-main?tab=readme-ov-file#jenkins-commands
+
 # Database Tool PGAdmin
 - https://www.postgresql.org/download/ ( postgresql-15.15-1-osx.dmg )
 - install arm64.dmg (for apple Silicon chip)
