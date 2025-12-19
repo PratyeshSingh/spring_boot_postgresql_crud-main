@@ -6,7 +6,7 @@
 - install arm64.dmg (for apple Silicon chip)
 - password := password123
 
-
+```query
 CREATE DATABASE productdb;
 
 CREATE SCHEMA product;
@@ -28,4 +28,4 @@ VALUES ('Laptop', 'A high-performance laptop.', 1200.00);
 
 drop table product;
 
-
+```
