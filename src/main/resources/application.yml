@@ -1,0 +1,15 @@
+server:
+  port: 7090
+
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/productdb
+#    url: jdbc:postgresql://host:docker:internal:5432/productdb
+    username: postgres
+    password: password123
+    driver-class-name: org.postgresql.Driver
+
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
